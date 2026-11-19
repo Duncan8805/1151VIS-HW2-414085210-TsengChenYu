@@ -2,6 +2,7 @@
 
 資料分析與視覺化應用 HW2：Dynamic visualization using D3.js。延續 HW1 的稻米主題，把「一年的靜態地圖」擴充成 **2005–2014 年的動態視覺化**：按下播放，地圖顏色、縣市排名與全國趨勢會逐年一起變化。
 
+- **線上展示（GitHub Pages）**：https://duncan8805.github.io/1151VIS-HW2-414085210-TsengChenYu/
 - **GitHub**：https://github.com/Duncan8805/1151VIS-HW2-414085210-TsengChenYu
 - **YouTube 互動影片**：（上傳後填入連結）
 
